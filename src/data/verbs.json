@@ -1,0 +1,474 @@
+{
+  "title": "不规则动词快背",
+  "sourceNote": "词表来自用户教材 IRREGULAR VERBS 照片，过去分词以教材为准（如 get/got/got）。lie 为躺（lie/lay/lain），不是说谎。",
+  "groups": [
+    {
+      "id": "aaa",
+      "name": "三个都一样",
+      "tip": "原形、过去式、过去分词写法完全一样。read 写法不变，读音从 /riːd/ 变成过去和过去分词的 /red/。can 只有 could，没有过去分词，单独记。",
+      "verbs": [
+        {
+          "base": "cost",
+          "past": "cost",
+          "participle": "cost",
+          "zh": "花费"
+        },
+        {
+          "base": "cut",
+          "past": "cut",
+          "participle": "cut",
+          "zh": "切"
+        },
+        {
+          "base": "hit",
+          "past": "hit",
+          "participle": "hit",
+          "zh": "打"
+        },
+        {
+          "base": "put",
+          "past": "put",
+          "participle": "put",
+          "zh": "放"
+        },
+        {
+          "base": "read",
+          "past": "read",
+          "participle": "read",
+          "zh": "读",
+          "ipa": {
+            "base": "/riːd/",
+            "past": "/red/",
+            "participle": "/red/"
+          }
+        },
+        {
+          "base": "can",
+          "past": "could",
+          "participle": null,
+          "zh": "能",
+          "note": "情态动词，教材未列出过去分词。"
+        }
+      ]
+    },
+    {
+      "id": "abb-ought",
+      "name": "过去式=过分 · ought/aught",
+      "tip": "过去式和过去分词相同，词尾是 ought 或 aught。一口气连读：bring bought、buy bought、catch caught、teach taught、think thought。",
+      "verbs": [
+        {
+          "base": "bring",
+          "past": "brought",
+          "participle": "brought",
+          "zh": "带来"
+        },
+        {
+          "base": "buy",
+          "past": "bought",
+          "participle": "bought",
+          "zh": "买"
+        },
+        {
+          "base": "catch",
+          "past": "caught",
+          "participle": "caught",
+          "zh": "抓住"
+        },
+        {
+          "base": "teach",
+          "past": "taught",
+          "participle": "taught",
+          "zh": "教"
+        },
+        {
+          "base": "think",
+          "past": "thought",
+          "participle": "thought",
+          "zh": "想"
+        }
+      ]
+    },
+    {
+      "id": "abb-t",
+      "name": "过去式=过分 · 词尾收成 t",
+      "tip": "过去式和过去分词相同，词尾变成 t 或直接以 t 结尾。",
+      "verbs": [
+        {
+          "base": "build",
+          "past": "built",
+          "participle": "built",
+          "zh": "建造"
+        },
+        {
+          "base": "feel",
+          "past": "felt",
+          "participle": "felt",
+          "zh": "感觉"
+        },
+        {
+          "base": "keep",
+          "past": "kept",
+          "participle": "kept",
+          "zh": "保持"
+        },
+        {
+          "base": "leave",
+          "past": "left",
+          "participle": "left",
+          "zh": "离开"
+        },
+        {
+          "base": "lend",
+          "past": "lent",
+          "participle": "lent",
+          "zh": "借出"
+        },
+        {
+          "base": "lose",
+          "past": "lost",
+          "participle": "lost",
+          "zh": "丢失"
+        },
+        {
+          "base": "mean",
+          "past": "meant",
+          "participle": "meant",
+          "zh": "意思是"
+        },
+        {
+          "base": "meet",
+          "past": "met",
+          "participle": "met",
+          "zh": "遇见"
+        },
+        {
+          "base": "send",
+          "past": "sent",
+          "participle": "sent",
+          "zh": "寄送"
+        },
+        {
+          "base": "sleep",
+          "past": "slept",
+          "participle": "slept",
+          "zh": "睡觉"
+        },
+        {
+          "base": "spend",
+          "past": "spent",
+          "participle": "spent",
+          "zh": "花费"
+        }
+      ]
+    },
+    {
+      "id": "abb-small",
+      "name": "过去式=过分 · 稍微改一下",
+      "tip": "过去式和过去分词相同，只是词尾或元音稍微改一下。",
+      "verbs": [
+        {
+          "base": "have",
+          "past": "had",
+          "participle": "had",
+          "zh": "有"
+        },
+        {
+          "base": "hear",
+          "past": "heard",
+          "participle": "heard",
+          "zh": "听见"
+        },
+        {
+          "base": "make",
+          "past": "made",
+          "participle": "made",
+          "zh": "制作"
+        },
+        {
+          "base": "pay",
+          "past": "paid",
+          "participle": "paid",
+          "zh": "付钱"
+        },
+        {
+          "base": "say",
+          "past": "said",
+          "participle": "said",
+          "zh": "说"
+        },
+        {
+          "base": "sit",
+          "past": "sat",
+          "participle": "sat",
+          "zh": "坐"
+        }
+      ]
+    },
+    {
+      "id": "abb-vowel",
+      "name": "过去式=过分 · ou/oo/o",
+      "tip": "过去式和过去分词相同，元音变成 ou、oo 或 o。",
+      "verbs": [
+        {
+          "base": "find",
+          "past": "found",
+          "participle": "found",
+          "zh": "找到"
+        },
+        {
+          "base": "sell",
+          "past": "sold",
+          "participle": "sold",
+          "zh": "卖"
+        },
+        {
+          "base": "tell",
+          "past": "told",
+          "participle": "told",
+          "zh": "告诉"
+        },
+        {
+          "base": "stand",
+          "past": "stood",
+          "participle": "stood",
+          "zh": "站"
+        },
+        {
+          "base": "understand",
+          "past": "understood",
+          "participle": "understood",
+          "zh": "理解"
+        },
+        {
+          "base": "get",
+          "past": "got",
+          "participle": "got",
+          "zh": "得到",
+          "note": "教材为 get/got/got，不要改成 gotten。"
+        },
+        {
+          "base": "win",
+          "past": "won",
+          "participle": "won",
+          "zh": "赢"
+        }
+      ]
+    },
+    {
+      "id": "iau",
+      "name": "i → a → u",
+      "tip": "三个形式元音按 i、a、u 变。四组一起喊：begin began begun，drink drank drunk，sing sang sung，swim swam swum。",
+      "verbs": [
+        {
+          "base": "begin",
+          "past": "began",
+          "participle": "begun",
+          "zh": "开始"
+        },
+        {
+          "base": "drink",
+          "past": "drank",
+          "participle": "drunk",
+          "zh": "喝"
+        },
+        {
+          "base": "sing",
+          "past": "sang",
+          "participle": "sung",
+          "zh": "唱"
+        },
+        {
+          "base": "swim",
+          "past": "swam",
+          "participle": "swum",
+          "zh": "游泳"
+        }
+      ]
+    },
+    {
+      "id": "ew-own",
+      "name": "ew → own",
+      "tip": "过去式多是 ew，过去分词多是 own。画、飞、长、知道、扔，五组一起记。",
+      "verbs": [
+        {
+          "base": "draw",
+          "past": "drew",
+          "participle": "drawn",
+          "zh": "画"
+        },
+        {
+          "base": "fly",
+          "past": "flew",
+          "participle": "flown",
+          "zh": "飞"
+        },
+        {
+          "base": "grow",
+          "past": "grew",
+          "participle": "grown",
+          "zh": "生长"
+        },
+        {
+          "base": "know",
+          "past": "knew",
+          "participle": "known",
+          "zh": "知道"
+        },
+        {
+          "base": "throw",
+          "past": "threw",
+          "participle": "thrown",
+          "zh": "扔"
+        }
+      ]
+    },
+    {
+      "id": "abc-en",
+      "name": "三个都变 · 多见 -en/-n",
+      "tip": "过去式和过去分词都和原形不同，过去分词常见 -en 或 -n。按小簇记：broke/broken、chose/chosen、spoke/spoken、woke/woken；drove/driven、rode/ridden、wrote/written；took/taken、forgot/forgotten；gave/given、ate/eaten、fell/fallen、saw/seen、wore/worn、showed/shown、did/done、lay/lain。",
+      "verbs": [
+        {
+          "base": "break",
+          "past": "broke",
+          "participle": "broken",
+          "zh": "打破"
+        },
+        {
+          "base": "choose",
+          "past": "chose",
+          "participle": "chosen",
+          "zh": "选择"
+        },
+        {
+          "base": "speak",
+          "past": "spoke",
+          "participle": "spoken",
+          "zh": "说"
+        },
+        {
+          "base": "wake",
+          "past": "woke",
+          "participle": "woken",
+          "zh": "醒来"
+        },
+        {
+          "base": "drive",
+          "past": "drove",
+          "participle": "driven",
+          "zh": "驾驶"
+        },
+        {
+          "base": "ride",
+          "past": "rode",
+          "participle": "ridden",
+          "zh": "骑"
+        },
+        {
+          "base": "write",
+          "past": "wrote",
+          "participle": "written",
+          "zh": "写"
+        },
+        {
+          "base": "take",
+          "past": "took",
+          "participle": "taken",
+          "zh": "拿"
+        },
+        {
+          "base": "forget",
+          "past": "forgot",
+          "participle": "forgotten",
+          "zh": "忘记"
+        },
+        {
+          "base": "give",
+          "past": "gave",
+          "participle": "given",
+          "zh": "给"
+        },
+        {
+          "base": "eat",
+          "past": "ate",
+          "participle": "eaten",
+          "zh": "吃"
+        },
+        {
+          "base": "fall",
+          "past": "fell",
+          "participle": "fallen",
+          "zh": "落下"
+        },
+        {
+          "base": "see",
+          "past": "saw",
+          "participle": "seen",
+          "zh": "看见"
+        },
+        {
+          "base": "wear",
+          "past": "wore",
+          "participle": "worn",
+          "zh": "穿"
+        },
+        {
+          "base": "show",
+          "past": "showed",
+          "participle": "shown",
+          "zh": "展示"
+        },
+        {
+          "base": "do",
+          "past": "did",
+          "participle": "done",
+          "zh": "做"
+        },
+        {
+          "base": "lie",
+          "past": "lay",
+          "participle": "lain",
+          "zh": "躺",
+          "note": "这是「躺」，不是「说谎」(lie/lied/lied)。"
+        }
+      ]
+    },
+    {
+      "id": "irregular-unique",
+      "name": "没有规律、单独死记",
+      "tip": "这五个不要硬往上面的组里塞。be 和 go 是完全换词；come、become、run 的过去分词和原形相同。",
+      "verbs": [
+        {
+          "base": "be",
+          "past": "was/were",
+          "participle": "been",
+          "zh": "是",
+          "note": "过去式分 was（单数）和 were（复数/you）。"
+        },
+        {
+          "base": "go",
+          "past": "went",
+          "participle": "gone",
+          "zh": "去"
+        },
+        {
+          "base": "come",
+          "past": "came",
+          "participle": "come",
+          "zh": "来"
+        },
+        {
+          "base": "become",
+          "past": "became",
+          "participle": "become",
+          "zh": "变成"
+        },
+        {
+          "base": "run",
+          "past": "ran",
+          "participle": "run",
+          "zh": "跑"
+        }
+      ]
+    }
+  ]
+}
